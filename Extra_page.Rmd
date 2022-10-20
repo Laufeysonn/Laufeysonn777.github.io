@@ -1,0 +1,21 @@
+---
+title: About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# This is Jeff's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+
+Here's some text. I like the Internet. I use [google](http://www.google.com/) all the time to do data science.
+
+```{r}
+
+```
+
+here is a direct link to the about page:
+[about](about.html)
