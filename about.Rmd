@@ -8,13 +8,4 @@ output:
 
 # This is Jeff's awesome website
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
-
-
-Here's some text. I like the Internet. I use [google](http://www.google.com/) all the time to do data science.
-
-```{r}
-
-```
-
-
+this awesome website is made in rmarkdown and other stuff. 
